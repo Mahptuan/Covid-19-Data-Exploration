@@ -1,6 +1,6 @@
 # Covid-19-Data-Exploration
 
-The project used SQL to query covid data for exploration purpose and preparation of the data visualization my discoveries. The task involves basic queries (aggregate functions, alias, join, CTE) and tableau
+The project used SQL to query covid data for exploration purpose and preparation of the data visualization my discoveries. I had used basic queries (aggregate functions, alias, join, CTE) and tableau
 
 ![Covid19](https://github.com/Mahptuan/Covid-19-Data-Exploration-by-SQL/assets/136052582/e8adabc0-f4b8-463f-bce0-ef55eea0dfeb)
 
